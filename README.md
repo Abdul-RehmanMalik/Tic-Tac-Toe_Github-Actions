@@ -1,2 +1,1 @@
-# Tictactoe
-Tic-Tac-Toe in React-Ts
+# Tic-Tac-Toe_Github-Actions
