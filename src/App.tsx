@@ -44,6 +44,7 @@ function Board({
   } else {
     status = "Next player: " + (xIsNext ? "X" : "O");
   }
+  console.log(status);
   return (
     <>
       <div className="board-row">
